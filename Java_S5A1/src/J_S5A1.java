@@ -54,7 +54,7 @@
 	 }
 	}
 
-	class Area
+	class AreaPerimeter
 	{
 	 public static void main(String[] args)
 	 {
